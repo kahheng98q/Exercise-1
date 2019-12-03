@@ -49,6 +49,9 @@ class MainActivity : AppCompatActivity() {
             Payment.setText("")
             Loan.setText("")
             Interest.setText("")
+            disloan.setText("")
+            disInt.setText("")
+            disRate.setText("")
 
         }
 
